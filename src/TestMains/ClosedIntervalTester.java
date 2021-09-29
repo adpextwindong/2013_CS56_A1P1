@@ -4,7 +4,7 @@ import Geometry.Point2D;
 import Math.ClosedInterval;
 
 
-public class meinClosedIntervalTester {
+public class ClosedIntervalTester {
 	public static void main(String[] args) {
 		//int testNums[]={-1,0,2,5,6};
 		float testNums[]={-1f,0f,2f,5f,6f};

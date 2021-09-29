@@ -6,7 +6,7 @@ import Geometry.Point2D;
 import Geometry.Polygon;
 import Math.PointMath;
 
-public class meinRayCastTester {
+public class RayCastTester {
 	public static void main(String[] args) {
 		Point2D Vert=new Point2D(1,1);
 		ArrayList<Point2D> vertArrayList= new ArrayList<Point2D>();

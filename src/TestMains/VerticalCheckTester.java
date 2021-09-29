@@ -3,7 +3,7 @@ package TestMains;
 import Geometry.Point2D;
 import Math.PointMath;
 
-public class meinVerticalCheckTester {
+public class VerticalCheckTester {
 	public static void main(String[] args) {
 		//test cases
 		//{two equal points, vertical points,horizontal normal point}

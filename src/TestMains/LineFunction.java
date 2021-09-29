@@ -4,7 +4,7 @@ import Geometry.Point2D;
 import Math.LineFunction;
 
 
-public class meinLineFunction {
+public class LineFunction {
 	public static void main(String[] args) {
 		Point2D point1=new Point2D(0,1);
 		Point2D point2=new Point2D(0,1);
